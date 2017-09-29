@@ -1,6 +1,6 @@
 ---
-title: "myrep"
-author: "yz"
+title: "Week1-Homework Part2"
+author: "Zhi Ye"
 date: "2017-9-29"
 output: pdf_document
 ---
